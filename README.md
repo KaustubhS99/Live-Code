@@ -30,7 +30,7 @@ https://live-code12.vercel.app
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/rldewe/Live-Code.git
+git https://github.com/KaustubhS99/Live-Code.git
 cd Live-Code
 ```
 ### Setup
